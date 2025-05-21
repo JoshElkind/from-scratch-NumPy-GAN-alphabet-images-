@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+
+# Generated images and models (keep curated assets/)
+*.png
+!assets/*.png
+*.npy
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/ 
+.gitignore
